@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results skipped="0" failed="0" ignored="0" total="2" passed="2">
+  <reporter-output>
+  </reporter-output>
+  <suite name="Suite" duration-ms="0" started-at="2024-03-28T21:53:39 IST" finished-at="2024-03-28T21:53:39 IST">
+    <groups>
+    </groups>
+  </suite> <!-- Suite -->
+  <suite name="Suite (0)" duration-ms="28267" started-at="2024-03-28T21:53:10 IST" finished-at="2024-03-28T21:53:38 IST">
+    <groups>
+    </groups>
+    <test name="Test" duration-ms="28267" started-at="2024-03-28T21:53:10 IST" finished-at="2024-03-28T21:53:38 IST">
+      <class name="com.opencart.qa.testcases.OpenCartLoginPageTest">
+        <test-method status="PASS" signature="setUP()[pri:0, instance:com.opencart.qa.testcases.OpenCartLoginPageTest@24a35978]" name="setUP" is-config="true" duration-ms="9563" started-at="2024-03-28T21:53:10 IST" finished-at="2024-03-28T21:53:19 IST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setUP -->
+        <test-method status="PASS" signature="validateTitleOFLoginPage()[pri:1, instance:com.opencart.qa.testcases.OpenCartLoginPageTest@24a35978]" name="validateTitleOFLoginPage" duration-ms="148" started-at="2024-03-28T21:53:19 IST" finished-at="2024-03-28T21:53:20 IST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- validateTitleOFLoginPage -->
+        <test-method status="PASS" signature="browserShutdown()[pri:0, instance:com.opencart.qa.testcases.OpenCartLoginPageTest@24a35978]" name="browserShutdown" is-config="true" duration-ms="908" started-at="2024-03-28T21:53:20 IST" finished-at="2024-03-28T21:53:21 IST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- browserShutdown -->
+        <test-method status="PASS" signature="setUP()[pri:0, instance:com.opencart.qa.testcases.OpenCartLoginPageTest@24a35978]" name="setUP" is-config="true" duration-ms="5716" started-at="2024-03-28T21:53:21 IST" finished-at="2024-03-28T21:53:26 IST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setUP -->
+        <test-method status="PASS" signature="loginTest()[pri:2, instance:com.opencart.qa.testcases.OpenCartLoginPageTest@24a35978]" name="loginTest" duration-ms="10783" started-at="2024-03-28T21:53:26 IST" finished-at="2024-03-28T21:53:37 IST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- loginTest -->
+        <test-method status="PASS" signature="browserShutdown()[pri:0, instance:com.opencart.qa.testcases.OpenCartLoginPageTest@24a35978]" name="browserShutdown" is-config="true" duration-ms="1077" started-at="2024-03-28T21:53:37 IST" finished-at="2024-03-28T21:53:38 IST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- browserShutdown -->
+      </class> <!-- com.opencart.qa.testcases.OpenCartLoginPageTest -->
+    </test> <!-- Test -->
+  </suite> <!-- Suite (0) -->
+</testng-results>
